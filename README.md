@@ -10,7 +10,14 @@ AgriNet is an AI-powered web application designed to detect early corn crop dise
 - **📧 Contact Form:** A fully functional form to get in touch with us.
 - **🔊 Newsletter Subscription:** Stay informed with the latest agricultural updates.
 
+
 ## ⚙️ Installation and Setup
+
+Clone the repository:
+   ```bash
+   git clone https://github.com/Shahzad-Ali-44/AgriNet-AI-Powered-Corn-Crops-Disease-Detection-App.git
+   ```
+
 
 ### Frontend (Next.js)
 
@@ -58,15 +65,27 @@ The VGG-19 model file (`vgg19_model.keras`) exceeds GitHub's file size limit and
    git lfs install
    ```
 
-2. Clone the repository:
-   ```bash
-   git clone https://github.com/Shahzad-Ali-44/AgriNet-AI-Powered-Corn-Crops-Disease-Detection-App.git
-   ```
-
-3. Pull the model file using Git LFS:
+2. Pull the model file using Git LFS:
    ```bash
    git lfs pull
    ```
+## Contact Form Configuration
+
+To enable the contact form functionality, follow these steps:
+
+1. **Get an Access Key**:
+   - Visit [Web3Forms](https://web3forms.com/) and sign up to get your free access key.
+
+2. **Update the `.env.local` File**:
+   - Add the following entry to your `.env.local` file:
+     ```env
+     NEXT_PUBLIC_AccessKey=your-access-key-here
+     ```
+
+3. **How It Works**:
+   - The contact form uses the Web3Forms API to send messages to the email address you configure in your Web3Forms account.
+   - Ensure your application has internet access to communicate with the Web3Forms API.
+
 
 ## 🚀 Usage
 
