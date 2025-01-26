@@ -15,7 +15,7 @@ const Hero = () => {
                 Revolutionize Agriculture with Advanced Corn Crops Disease Detection
                 </h1>
                 <p className="mb-12 text-justify md:text-center !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl">
-                AgriNet is a cutting-edge solution for farmers and agricultural businesses, offering AI-powered cron crops disease detection. Ensure healthier crops, higher yields, and sustainable farming practices with our innovative technology.
+                AgriNet is a cutting-edge solution for farmers and agricultural businesses, offering AI-powered corn crops disease detection. Ensure healthier crops, higher yields, and sustainable farming practices with our innovative technology.
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link
