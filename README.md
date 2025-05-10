@@ -1,4 +1,4 @@
-# AgriNet
+# AgriNet - AI Powered Corn Leafs Disease Detection
 
 AgriNet is an AI-powered web application designed to detect early corn crop diseases and provide effective treatment recommendations. This innovative solution helps farmers improve crop health and yield by leveraging deep learning models.
 
@@ -15,7 +15,7 @@ AgriNet is an AI-powered web application designed to detect early corn crop dise
 
 Clone the repository:
    ```bash
-   git clone https://github.com/Shahzad-Ali-44/AgriNet-AI-Powered-Corn-Crops-Disease-Detection-App.git
+   git clone https://github.com/Shahzad-Ali-44/AgriNet.git
    ```
 
 
@@ -113,5 +113,5 @@ This project is licensed under the [MIT License](LICENSE).
 - TensorFlow and Keras for their robust deep learning frameworks.
 - Open-source community for tools and libraries enabling this work.
 
-*🌾 AgriNet - AI-POWERED WEB APPLICATION.*
+*🌾 AgriNet - AI Powered Corn Leafs Disease Detection.*
 
