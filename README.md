@@ -2,16 +2,16 @@
 
 AgriNet is an AI-powered web application designed to detect early corn crop diseases and provide effective treatment recommendations. This innovative solution helps farmers improve crop health and yield by leveraging deep learning models.
 
-## 🌿 Features
+##  Features
 
-- **🚀 AI-Powered Detection:** Achieves 94% accuracy using a VGG-19 model for early disease identification.
-- **💊 Treatment Recommendations:** Offers actionable insights for disease management.
-- **📱 Fully Responsive:** Optimized for seamless usage across all devices.
-- **📧 Contact Form:** A fully functional form to get in touch with us.
-- **🔊 Newsletter Subscription:** Stay informed with the latest agricultural updates.
+- ** AI-Powered Detection:** Achieves 94% accuracy using a VGG-19 model for early disease identification.
+- ** Treatment Recommendations:** Offers actionable insights for disease management.
+- ** Fully Responsive:** Optimized for seamless usage across all devices.
+- ** Contact Form:** A fully functional form to get in touch with us.
+- ** Newsletter Subscription:** Stay informed with the latest agricultural updates.
 
 
-## ⚙️ Installation and Setup
+##  Installation and Setup
 
 Clone the repository:
    ```bash
@@ -87,23 +87,23 @@ To enable the contact form functionality, follow these steps:
    - Ensure your application has internet access to communicate with the Web3Forms API.
 
 
-## 🚀 Usage
+##  Usage
 
 1. Upload an image of the corn crop.
 2. The AI model will analyze and detect potential diseases.
 3. Receive treatment suggestions and actionable insights.
 
-## 📊 Technology Stack
+##  Technology Stack
 
 - **Frontend:** Next.js
 - **Backend:** FastAPI
 - **Model:** Visual Geometry Group (VGG-19) with 94% accuracy
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Feel free to fork the repository, make improvements, and submit a pull request.
 
-## 📜 License
+##  License
 
 This project is licensed under the [MIT License](LICENSE).
 
